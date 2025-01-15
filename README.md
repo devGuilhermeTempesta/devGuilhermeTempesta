@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm going crazy with Java lol
 
-![devGuilhermeTempesta GitHub stats](https://github-readme-stats.vercel.app/api?username=devGuilhermeTempesta&show_icons=true&theme=synthwave)
+![devGuilhermeTempesta GitHub stats](https://github-readme-stats.vercel.app/api?username=devGuilhermeTempesta&show_icons=true&theme=highcontrast)
 
 ### technologies of my day
 
