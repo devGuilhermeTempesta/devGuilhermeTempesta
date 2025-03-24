@@ -15,6 +15,7 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 💻 Stack: Java.
 📚 Aprendizado Atual: java, react, js.
 🎓 Formação: cursando ciencia da computaçao 
+
 ## 😎 Curiosidades sobre Mim
 🎸 Sou apaixonado por música, principalmente rocks e raps, sigo com minha vontade de aprender a tocar algum instrumento.
 🏋️‍♂️ Adoro praticar exercicios fisico, ate por que nao adianta so ter uma mente fraca e um corpo fraco. Alem de da uma desestressada kkkk. 
