@@ -10,7 +10,7 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 
 ## 📝 Informações Detalhadas.  
 👤 Nome: Guilherme Tempesta.  
-🎂 Idade: 21 (01/2024).  
+🎂 Idade: 21 (01/2004).  
 📍 Localização: Brasilia - Brasil.  
 💻 Stack: Java.  
 📚 Aprendizado Atual: java, react, js.  
