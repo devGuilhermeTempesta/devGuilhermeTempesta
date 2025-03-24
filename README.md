@@ -2,7 +2,7 @@
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
 ## 🌟 Informações Públicas
-Meu nome é Guilherme Tempesta (também conhecido(a) como so Tempesta). Atualmente, moro em brasilia, Brasil e meu objetivo é melhorar minhas habilidades pessoais como desenvolvedor e alcançar meus sonhos e metas. 🚀
+Meu nome é Guilherme Tempesta (também conhecido como so Tempesta). Atualmente, moro em brasilia, Brasil e meu objetivo é melhorar minhas habilidades pessoais como desenvolvedor e alcançar meus sonhos e metas. 🚀
 
 No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2023 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
 
