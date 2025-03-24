@@ -8,13 +8,13 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 
 alem de explorar novos conceitos, novidades e experiências que têm sido transformadoras na minha trajetória como desenvolvedor. ✍️📹
 
-## 📝 Informações Detalhadas
-👤 Nome: Guilherme Tempesta.
-🎂 Idade: 21 (01/2024)
-📍 Localização: Brasilia - Brasil.
-💻 Stack: Java.
-📚 Aprendizado Atual: java, react, js.
-🎓 Formação: cursando ciencia da computaçao 
+## 📝 Informações Detalhadas.  
+👤 Nome: Guilherme Tempesta.  
+🎂 Idade: 21 (01/2024).  
+📍 Localização: Brasilia - Brasil.  
+💻 Stack: Java.  
+📚 Aprendizado Atual: java, react, js.  
+🎓 Formação: cursando ciencia da computaçao.   
 
 ## 😎 Curiosidades sobre Mim
 🎸 Sou apaixonado por música, principalmente rocks e raps, sigo com minha vontade de aprender a tocar algum instrumento.
