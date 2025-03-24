@@ -1,25 +1,23 @@
-- 👋 Hi, I’m @devGuilhermeTempesta 🐲
-- 👀 I’m interested in development
-- 🌱 I’m currently learning the Java language
-- 💞️ I’m looking to collaborate with a company in the area
-- 📫 How to reach me guilhermeftempesta@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm going crazy with Java lol
+👋 Olá, visitante!
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
-![devGuilhermeTempesta GitHub stats](https://github-readme-stats.vercel.app/api?username=devGuilhermeTempesta&show_icons=true&theme=highcontrast)
+🌟 Informações Públicas
+Meu nome é Guilherme Tempesta (também conhecido(a) como so Tempesta). Atualmente, moro em brasilia, Brasil e meu objetivo é melhorar minhas habilidades pessoais como desenvolvedor e alcançar meus sonhos e metas. 🚀
 
-### technologies of my day
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2023 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
 
-<div style = "display: inline_block"><br/>
-<img aling = "center" alt= "Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+alem de explorar novos conceitos, novidades e experiências que têm sido transformadoras na minha trajetória como desenvolvedor. ✍️📹
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devGuilhermeTempesta/devGuilhermeTempesta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devGuilhermeTempesta/devGuilhermeTempesta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devGuilhermeTempesta/devGuilhermeTempesta/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-<!---
-devGuilhermeTempesta/devGuilhermeTempesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📝 Informações Detalhadas
+👤 Nome: Guilherme Tempesta.
+🎂 Idade: 21 (01/2024)
+📍 Localização: Brasilia - Brasil.
+💻 Stack: Java.
+📚 Aprendizado Atual: java, react, js.
+🎓 Formação: cursando ciencia da computaçao 
+😎 Curiosidades sobre Mim
+🎸 Sou apaixonado por música, principalmente rocks e raps, sigo com minha vontade de aprender a tocar algum instrumento.
+🏋️‍♂️ Adoro praticar exercicios fisico, ate por que nao adianta so ter uma mente fraca e um corpo fraco. Alem de da uma desestressada kkkk. 
+💡 Comecei a programar em 2023 e, desde então, venho me desafiando e aprendendo coisas novas.
+🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.
+🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.
