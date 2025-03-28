@@ -18,7 +18,7 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 
 ## 😎 Curiosidades sobre Mim
 🎸 Sou apaixonado por música, principalmente rocks e raps, sigo com minha vontade de aprender a tocar algum instrumento.  
-🏋️‍♂️ Adoro praticar exercicios fisico, ate por que nao adianta so ter uma mente fraca e um corpo fraco. Alem de da uma desestressada kkkk.   
+🏋️‍♂️ Adoro praticar exercicio fisico, ate por que nao adianta so ter uma mente fraca e um corpo fraco. Alem de da uma desestressada kkkk.   
 📚 tambem adoro ler livros de todos os tipos, desde a historia mais maluco ate um livro sobre a origem do universo kkkk.   
 💡 Comecei a programar em 2023 e, desde então, venho me desafiando e aprendendo coisas novas.  
 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.  
